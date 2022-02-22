@@ -2,6 +2,8 @@
 
 A serializer for js written in TypeScript which serializes and deserializes data and restores class instances upon deserialization.
 
+Can be used both in the browser and in Node.JS.
+
 ## Example
 
 ```js
