@@ -1,5 +1,5 @@
 {
-  "name": "js_serializer",
+  "name": "@opctim/js_serializer",
   "version": "1.0.0",
   "description": "A serializer for js written in TypeScript which serializes and deserializes data and restores class instances upon deserialization.",
   "main": "lib/index.js",
