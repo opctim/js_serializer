@@ -25,5 +25,9 @@
   "dependencies": {},
   "devDependencies": {
     "typescript": "^4.5.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opctim/js_serializer"
   }
 }
